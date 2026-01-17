@@ -3,3 +3,4 @@
 * Heavy duty terminal block connectors for power in/out
 * Pin-header connections for linking to a can bus control module
 * Voltage divider for measuring supply voltage
+<IMG src="" width=480>
